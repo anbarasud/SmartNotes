@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.buildozer/
+bin/
+*.apk
+*.keystore
+venv/
+env/
+.DS_Store
